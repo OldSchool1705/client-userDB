@@ -60,7 +60,9 @@ For more information on using the Angular CLI, including detailed command refere
 graph TD
 
 ## Architecture: copy and paste to https://www.mermaidchart.com/
-    <img src="/Architecture.svg" title="Architecture" />&nbsp;
+
+<img src="/Architecture.svg" title="Architecture" />&nbsp;
+
 ### copy the entire code &#8595;
 
     A[Angular Application] --> B[Core Layer]
